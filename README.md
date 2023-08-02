@@ -1,2 +1,2 @@
-# mindhub_tp01
+# MINDHUB - FRONTEND - Trabajo Practico 01
 Practica HTML Etiquetas Semanticas - Git
