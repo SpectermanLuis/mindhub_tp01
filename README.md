@@ -1,2 +1,2 @@
-# mindhub_tp01
+# MINDHUB - TRABAJO PRACTICO 01
 Practica HTML Etiquetas Semanticas - Git
